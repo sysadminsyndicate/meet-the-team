@@ -16,7 +16,7 @@ Here is some snaps
 
 Page Loader 
 =======================================
-Shit image will be displayer while page is loading ! ![alt tag](img/loader.gif)
+Shit animation will be displayed while page is loading ! ![alt tag](img/loader.gif)
 
 Team Page 
 =======================================
