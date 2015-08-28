@@ -9,7 +9,7 @@ thanks Rishi for supporting me
 Team Page of Sysadmin Syndicate
 ==================================
 
-[You can view this Page live at this url](http://sysadminsyndicate.github.io/meet-the-team){:target="_blank"}
+<a href="http://sysadminsyndicate.github.io/meet-the-team" target="_blank">You can view this Page live at this url</a>
 
 Here is some snaps 
 ==============================
