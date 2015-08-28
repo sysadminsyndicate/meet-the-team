@@ -16,11 +16,7 @@ Here is some snaps
 
 Page Loader 
 =======================================
-![alt tag](img/loader.gif)
-
-<p align="center">
-  (img/loader.gif)
-</p>
+Shit image will be displayer while page is loading ![alt tag] allign(img/loader.gif)
 
 Team Page 
 =======================================
