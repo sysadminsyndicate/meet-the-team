@@ -1,19 +1,33 @@
-# meet-the-team
-
-Team Page of Sysadmin Syndicate
-################################
-
-
+Meet The Team Page 
+==========================================
 This is my last project with Sysadmin Syndicate
 
-So i want to make it best ! 
+So we try to make it best as possible ! 
 
 thanks Rishi for supporting me 
 
-###################################
+Team Page of Sysadmin Syndicate
+==================================
 this project is copy left any one can use this 
 
 for their meet the team page ! 
 
+Here is some snaps 
+==============================
+
+[Plage Loader](http://f.cl.ly/items/1e3z1K2C1111150T1h3g/meetsnap1.JPG) 
 
 
+Page Loader 
+=======================================
+![Alt text](http://f.cl.ly/items/1e3z1K2C1111150T1h3g/meetsnap1.JPG"Page Loader")
+
+Team Page 
+=======================================
+![Alt text](http://f.cl.ly/items/200p0L320u1R3r2q270P/meetsnap2.JPG"Meet The Team Page")
+
+Pop-up Bio
+=======================================
+![Alt text](http://f.cl.ly/items/0L2V151C3d0p2v2u1e0g/meetsnap3.JPG"Pop-up Bio")
+
+This is a Copy Left Project. you can use this code to make a cool meet the team page ! 
