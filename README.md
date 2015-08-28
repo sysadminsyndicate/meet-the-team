@@ -16,10 +16,10 @@ Here is some snaps
 
 Page Loader 
 =======================================
-![alt tag](img/loader.gif) />
+![alt tag](img/loader.gif)
 
 <p align="center">
-  <(img/loader.gif) />
+  (img/loader.gif)
 </p>
 
 Team Page 
