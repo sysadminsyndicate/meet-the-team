@@ -1,5 +1,19 @@
 # meet-the-team
 
 Team Page of Sysadmin Syndicate
+################################
 
-<b> UNDER CONSTRUCTION </b>
+
+This is my last project with Sysadmin Syndicate
+
+So i want to make it best ! 
+
+thanks Rishi for supporting me 
+
+###################################
+this project is copy left any one can use this 
+
+for their meet the team page ! 
+
+
+
