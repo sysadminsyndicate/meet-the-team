@@ -8,14 +8,12 @@ thanks Rishi for supporting me
 
 Team Page of Sysadmin Syndicate
 ==================================
-this project is copy left any one can use this 
 
-for their meet the team page ! 
+
+[You can view this Page live at this url](http://sysadminsyndicate.github.io/meet-the-team) 
 
 Here is some snaps 
 ==============================
-
-
 
 Page Loader 
 =======================================
