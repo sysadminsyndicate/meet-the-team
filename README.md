@@ -16,7 +16,12 @@ Here is some snaps
 
 Page Loader 
 =======================================
-<allign=center ![alt tag](img/loader.gif) />
+![alt tag](img/loader.gif) />
+
+<p align="center">
+  <img/loader.gif) />
+</p>
+
 Team Page 
 =======================================
 ![alt tag](http://f.cl.ly/items/200p0L320u1R3r2q270P/meetsnap2.JPG)
