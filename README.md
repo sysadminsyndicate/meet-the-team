@@ -15,7 +15,6 @@ for their meet the team page !
 Here is some snaps 
 ==============================
 
-[Plage Loader](http://f.cl.ly/items/1e3z1K2C1111150T1h3g/meetsnap1.JPG) 
 
 
 Page Loader 
