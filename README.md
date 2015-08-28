@@ -16,7 +16,7 @@ Here is some snaps
 
 Page Loader 
 =======================================
-![alt tag](http://f.cl.ly/items/1e3z1K2C1111150T1h3g/meetsnap1.JPG)
+![alt tag](img/loader.gif)
 Team Page 
 =======================================
 ![alt tag](http://f.cl.ly/items/200p0L320u1R3r2q270P/meetsnap2.JPG)
