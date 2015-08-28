@@ -18,9 +18,7 @@ Page Loader
 =======================================
 ![alt tag](img/loader.gif) />
 
-<p align="center">
-  <img/loader.gif) />
-</p>
+< align="center"  img/loader.gif) />
 
 Team Page 
 =======================================
