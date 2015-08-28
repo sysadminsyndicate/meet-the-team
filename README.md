@@ -20,14 +20,12 @@ Here is some snaps
 
 Page Loader 
 =======================================
-![Alt text](http://f.cl.ly/items/1e3z1K2C1111150T1h3g/meetsnap1.JPG"Page Loader")
-
+![alt tag](http://f.cl.ly/items/1e3z1K2C1111150T1h3g/meetsnap1.JPG)
 Team Page 
 =======================================
-![Alt text](http://f.cl.ly/items/200p0L320u1R3r2q270P/meetsnap2.JPG"Meet The Team Page")
-
+![alt tag](http://f.cl.ly/items/200p0L320u1R3r2q270P/meetsnap2.JPG)
 Pop-up Bio
 =======================================
-![Alt text](http://f.cl.ly/items/0L2V151C3d0p2v2u1e0g/meetsnap3.JPG"Pop-up Bio")
+![alt tag](http://f.cl.ly/items/0L2V151C3d0p2v2u1e0g/meetsnap3.JPG)
 
-This is a Copy Left Project. you can use this code to make a cool meet the team page ! 
+This is a Copy Left Project. you can use this code to make a cool meet the team page for your site ! 
