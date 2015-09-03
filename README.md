@@ -1,10 +1,14 @@
 Meet The Team Page 
+Coded by : Rishi Giri { DotJS }
+
 ==========================================
 This is my last project with Sysadmin Syndicate
 
 So we try to make it best as possible ! 
 
 thanks Rishi for supporting me 
+
+- GEORGE SHRUTHIN
 
 Team Page of Sysadmin Syndicate
 ==================================
